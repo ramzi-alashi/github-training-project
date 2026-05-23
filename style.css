@@ -109,3 +109,16 @@ body {
     font-size: 0.9rem;
     opacity: 0.9;
 }
+@media (max-width: 480px) {
+    .personal-info {
+        padding: 1rem;
+    }
+    
+    .personal-info h1 {
+        font-size: 1.2rem;
+    }
+    
+    .logo {
+        font-size: 1.2rem;
+    }
+}
